@@ -1,0 +1,35 @@
+categories:
+- requisitos
+conversations:
+- - O que sao requisitos de software
+  - No âmbito da engenharia, um Requisito consiste da definição documentada de uma propriedade ou comportamento que um produto ou serviço particular deve atender.
+- - O que é um requisito
+  - No âmbito da engenharia, um Requisito consiste da definição documentada de uma propriedade ou comportamento que um produto ou serviço particular deve atender.
+- - O que é engenharia de requisitos
+  - É um ramo da Engenharia de Software que se dedica ao estudo de soluções para levantamento, desambiguação, análise e especificação de requisitos para projetos de desenvolvimento de software.
+- - Como devem ser os requisitos
+  - Os requisitos devem ser mensuráveis, testáveis, relacionados com necessidades identificadas do negócio ou domínio de aplicação, e definidos a um nível de detalhe suficiente para serem usados nas atividades da engenharia de software.
+- - Quais são os tipos de requisitos
+  - Requisitos de produto, organizacionais, externos. 
+- - O que são requisitos funcionais
+  - Descrição das diversas funções que clientes e usuários querem ou precisam que o software ofereça.
+- - O que são requisitos não funcionais
+  - Propriedades de um software, como manutenibilidade, usabilidade, desempenho, custos e várias outras.
+- - O que é estudo de viabilidade
+  - É um estudo breve e focalizado que procura responder algumas questões visando a tomada de decisão.
+- - Quais é levantamento de requisito
+  - Entrevista, questionários, workshop, brainstorming, storytelling, prototipação, observação, análise de documentos, análise de pontos de vista, sessões JAD/RAD.
+- - O que são requisitos não funcionais
+  - Requisitos não-funcionais de desempenho são aqueles que se referem à velocidade de operação do sistema.
+- - O que é coleta de requisitos
+  - É o processo de interagir com os stakeholders do sistema para descobrir seus requisitos. A compreensão do domínio se desenvolve mais durante essa atividade.
+- - O que é classificação requisitos
+  - Essa atividade considera o conjunto não estruturado dos requisitos e os organiza em grupos coerentes.
+- - O que é  resolução de conflitos em requisitos
+  - Quando múltiplos stakeholders estão envolvidos, os requisitos apresentarão conflitos. Essa atividade tem por objetivo solucionar esses conflitos.
+- - O que é  definição das prioridades em requisitos
+  - Em qualquer conjunto de requisitos, alguns serão mais importantes do que outros. Esse estágio envolve interação com os stakeholders para a definição dos requisitos mais importantes.
+- - O que é verificação em requisitos
+  - Os requisitos são verificados para descobrir se estão completos e consistentes e se estão em concordância com o que os stakeholders desejam do sistema.
+- - Como funciona levantamento de requisitos
+  - As abordagens orientadas a ponto de vista, na engenharia de requisitos, reconhecem esses diferentes pontos de vista e os utilizam para estruturar e organizar o processo de levantamento e os próprios requisitos. Uma importante capacidade da análise orientada a pontos de vista é que ela reconhece a existência de várias perspectivas e oferece um framework para descobrir conflitos nos requisitos propostos por diferentes stakeholders.

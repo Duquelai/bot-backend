@@ -1,0 +1,41 @@
+categories:
+- analise
+conversations:
+- - O que e analise orientado a objetos
+  - Uma analise que visa a desenvolver um modelo orientado a objeto do domínio da aplicação.
+- - O que são diagramas de classes
+  - Um diagrama de classes e uma representação da estrutura e relações das classes
+- - O que e um diagrama de classe
+  - Diagrama que representação a estrutura e relações entre classes 
+- - O que são diagramas de caso de uso
+  - Diagramas que documentam o que o sistema faz do ponto de vista do usuário. 
+- - O que e um diagrama de caso de uso
+  - Diagrama que documenta o que o sistema faz do ponto de vista do usuário. 
+- - Como são compostos os diagramas de caso de uso
+  - Cenário, ator, caso de uso, comunicação.
+- - O que e um cenário em diagramas de caso de uso
+  - Sequência de eventos que acontecem quando um usuário interage com o sistema.
+- - O que e um ator em diagramas de caso de uso
+  - Usuário do sistema, ou melhor, um tipo de usuário.
+- - O que e um caso de uso em diagramas de caso de uso
+  - É uma tarefa ou uma funcionalidade realizada pelo ator (usuário).
+- - O que e comunicação em diagramas de caso de uso
+  - É o que liga um ator com um caso de uso.
+- - O que e um diagrama de atividades
+  - O diagrama de atividades descreve os passos a serem percorridos para a conclusão de um metodo ou algoritmo específico.
+- - Quais são os componentes do diagrama de atividades
+  - Atividade, fluxo de controle, nó inicial, nó final e nó de decisão.
+- - Quais são os elementos de um diagrama de classes
+  - Atributos, metodos, classes e relacionamentos.
+- - O que são objetos em diagramas de classes
+  - Um objeto e algo do mundo real, concreto ou abstrato que exibe algum comportamento bem definido.
+- - O que e atributo em diagramas de classes
+  - Os atributos representam as propriedades do objeto da classe.
+- - O que e metodos em diagramas de classes
+  - Os metodos representam o conjunto de operações do objeto da classe.
+- - O que são classes em diagramas de classes
+  - São especificações para objetos. A definição da classe consiste na definiçaõ dos atributos e métodos dos objetos desta classe.
+- - O que são relacionamentos em diagramas de classes
+  - São as formas que as entidades podem se conectar a outras, lógica ou fisicamente.
+- - Quais os tipos de relacionamentos que temos na orientação a objetos
+  - Associações de agregação ou composição, generalizações e dependências.
