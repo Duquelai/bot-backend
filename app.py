@@ -22,7 +22,7 @@ trainer.train(path)
 
 @app.route("/")
 def home():
-    return 
+     return render_template("index.html")
 
 @app.route("/get")
 def get_bot_response():
