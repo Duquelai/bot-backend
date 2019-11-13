@@ -11,7 +11,7 @@ chatbot==1.5.2b0
 ChatterBot==1.0.5
 chatterbot-corpus==1.2.0
 Click==7.0
-cryptography==2.1.4
+cryptography==2.3
 cymem==2.0.2
 enum34==1.1.6
 Flask==1.1.1
