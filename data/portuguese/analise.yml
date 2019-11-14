@@ -1,41 +1,192 @@
 categories:
 - analise
 conversations:
-- - O que e analise orientado a objetos
-  - Uma analise que visa a desenvolver um modelo orientado a objeto do domínio da aplicação.
+- - Você sabe o que é analise orientado a objetos
+  - Uma analise que visa a desenvolver um modelo orientado a objeto do domínio da aplicação
+- - Eu quero saber o que é analise orientado a objetos
+  - Uma analise que visa a desenvolver um modelo orientado a objeto do domínio da aplicação
+- - Eu gostaria de saber o que é analise orientado a objetos
+  - Uma analise que visa a desenvolver um modelo orientado a objeto do domínio da aplicação
+- - Voce sabe dizer que é analise orientado a objetos
+  - Uma analise que visa a desenvolver um modelo orientado a objeto do domínio da aplicação
+- - O que é analise orientado a objetos
+  - Uma analise que visa a desenvolver um modelo orientado a objeto do domínio da aplicação
+- - Você sabe o que são diagramas de classes
+  - Um diagrama de classes e uma representação da estrutura e relações das classes
+- - Eu quero saber o que são diagramas de classes
+  - Um diagrama de classes e uma representação da estrutura e relações das classes
+- - Eu gostaria de saber o que são diagramas de classes
+  - Um diagrama de classes e uma representação da estrutura e relações das classes
+- - Voce sabe dizer o que são diagramas de classes
+  - Um diagrama de classes e uma representação da estrutura e relações das classes
 - - O que são diagramas de classes
   - Um diagrama de classes e uma representação da estrutura e relações das classes
-- - O que e um diagrama de classe
-  - Diagrama que representação a estrutura e relações entre classes 
+- - Você sabe o que é um diagrama de classe
+  - Um diagrama que representação a estrutura e relações entre classes 
+- - Eu quero saber o que é um diagrama de classe
+  - Um diagrama que representação a estrutura e relações entre classes 
+- - Eu gostaria de saber o que é um diagrama de classe
+  - Um diagrama que representação a estrutura e relações entre classes 
+- - Voce sabe dizer o que é um diagrama de classe
+- - O que é um diagrama de classe
+  - Um diagrama que representação a estrutura e relações entre classes 
+- - Você sabe o que são diagramas de caso de uso
+  - Diagramas que documentam o que o sistema faz do ponto de vista do usuário 
+- - Eu quero saber o que são diagramas de caso de uso
+  - Diagramas que documentam o que o sistema faz do ponto de vista do usuário 
+- - Eu gostaria de saber o que são diagramas de caso de uso
+  - Diagramas que documentam o que o sistema faz do ponto de vista do usuário 
+- - Voce sabe dizer o que são diagramas de caso de uso
+  - Diagramas que documentam o que o sistema faz do ponto de vista do usuário 
 - - O que são diagramas de caso de uso
-  - Diagramas que documentam o que o sistema faz do ponto de vista do usuário. 
-- - O que e um diagrama de caso de uso
-  - Diagrama que documenta o que o sistema faz do ponto de vista do usuário. 
+  - Diagramas que documentam o que o sistema faz do ponto de vista do usuário 
+- - Você sabe o que é um diagrama de caso de uso
+  - Diagrama que documenta o que o sistema faz do ponto de vista do usuário 
+- - Eu quero saber o que é um diagrama de caso de uso
+  - Diagrama que documenta o que o sistema faz do ponto de vista do usuário 
+- - Eu gostaria de saber o que é um diagrama de caso de uso
+  - Diagrama que documenta o que o sistema faz do ponto de vista do usuário 
+- - Voce sabe dizer o que é um diagrama de caso de uso
+  - Diagrama que documenta o que o sistema faz do ponto de vista do usuário 
+- - O que é um diagrama de caso de uso
+  - Diagrama que documenta o que o sistema faz do ponto de vista do usuário 
+- - Você sabe como são compostos os diagramas de caso de uso
+  - São compostos por cenário, ator, caso de uso, comunicação.
+- - Eu quero saber como são compostos os diagramas de caso de uso
+  - São compostos por cenário, ator, caso de uso, comunicação.
+- - Eu gostaria de saber como são compostos os diagramas de caso de uso
+  - São compostos por cenário, ator, caso de uso, comunicação.
+- - Voce sabe dizer como são compostos os diagramas de caso de uso
+  - São compostos por cenário, ator, caso de uso, comunicação.
 - - Como são compostos os diagramas de caso de uso
-  - Cenário, ator, caso de uso, comunicação.
-- - O que e um cenário em diagramas de caso de uso
-  - Sequência de eventos que acontecem quando um usuário interage com o sistema.
-- - O que e um ator em diagramas de caso de uso
-  - Usuário do sistema, ou melhor, um tipo de usuário.
-- - O que e um caso de uso em diagramas de caso de uso
-  - É uma tarefa ou uma funcionalidade realizada pelo ator (usuário).
-- - O que e comunicação em diagramas de caso de uso
+  - São compostos por cenário, ator, caso de uso, comunicação.
+- - Você sabe o que é um cenário em diagramas de caso de uso
+  - Sequência de eventos que acontecem quando um usuário interage com o sistema
+- - Eu quero saber o que é um cenário em diagramas de caso de uso
+  - Sequência de eventos que acontecem quando um usuário interage com o sistema
+- - Eu gostaria de saber o que é um cenário em diagramas de caso de uso
+  - Sequência de eventos que acontecem quando um usuário interage com o sistema
+- - Voce sabe dizer é um cenário em diagramas de caso de uso
+  - Sequência de eventos que acontecem quando um usuário interage com o sistema
+- - O que é um cenário em diagramas de caso de uso
+  - Sequência de eventos que acontecem quando um usuário interage com o sistema
+- - Você sabe o que é um ator em diagramas de caso de uso
+  - O usuário do sistema, ou melhor, um tipo de usuário
+- - Eu quero saber o que é um ator em diagramas de caso de uso
+  - O usuário do sistema, ou melhor, um tipo de usuário
+- - Eu gostaria de saber o que é um ator em diagramas de caso de uso
+  - O usuário do sistema, ou melhor, um tipo de usuário
+- - Voce sabe dizer o que é um ator em diagramas de caso de uso
+  - O usuário do sistema, ou melhor, um tipo de usuário
+- - O que é um ator em diagramas de caso de uso
+  - O usuário do sistema, ou melhor, um tipo de usuário
+- - Você sabe o que é um caso de uso em diagramas de caso de uso
+  - É uma tarefa ou uma funcionalidade realizada pelo usuário
+- - Eu quero saber o que é um caso de uso em diagramas de caso de uso
+  - É uma tarefa ou uma funcionalidade realizada pelo usuário
+- - Eu gostaria de saber o que é um caso de uso em diagramas de caso de uso
+  - É uma tarefa ou uma funcionalidade realizada pelo usuário
+- - Voce sabe dizer o que é um caso de uso em diagramas de caso de uso
+  - É uma tarefa ou uma funcionalidade realizada pelo usuário
+- - O que é um caso de uso em diagramas de caso de uso
+  - É uma tarefa ou uma funcionalidade realizada pelo usuário
+- - Você sabe o que é comunicação em diagramas de caso de uso
+  - É o que liga um ator com um caso de uso
+- - Eu quero saber o que é comunicação em diagramas de caso de uso
+  - É o que liga um ator com um caso de uso
+- - Eu gostaria de saber o que é comunicação em diagramas de caso de uso
+  - É o que liga um ator com um caso de uso
+- - Voce sabe dizer o que é comunicação em diagramas de caso de uso
   - É o que liga um ator com um caso de uso.
-- - O que e um diagrama de atividades
+- - O que é comunicação em diagramas de caso de uso
+  - É o que liga um ator com um caso de uso
+- - Você sabe o que é um diagrama de atividades
   - O diagrama de atividades descreve os passos a serem percorridos para a conclusão de um metodo ou algoritmo específico.
+- - Eu quero saber o que é um diagrama de atividades
+  - O diagrama de atividades descreve os passos a serem percorridos para a conclusão de um metodo ou algoritmo específico.
+- - Eu gostaria de saber o que é um diagrama de atividades
+  - O diagrama de atividades descreve os passos a serem percorridos para a conclusão de um metodo ou algoritmo específico.
+- - Voce sabe dizer o que é um diagrama de atividades
+  - O diagrama de atividades descreve os passos a serem percorridos para a conclusão de um metodo ou algoritmo específico.
+- - O que é um diagrama de atividades
+  - O diagrama de atividades descreve os passos a serem percorridos para a conclusão de um metodo ou algoritmo específico.
+- - Você sabe quais são os componentes do diagrama de atividades
+  - Atividade, fluxo de controle, nó inicial, nó final e nó de decisão
+- - Eu quero saber quais são os componentes do diagrama de atividades
+  - Atividade, fluxo de controle, nó inicial, nó final e nó de decisão
+- - Eu gostaria de saber quais são os componentes do diagrama de atividades
+  - Atividade, fluxo de controle, nó inicial, nó final e nó de decisão
+- - Voce sabe dizer quais são os componentes do diagrama de atividades
+  - Atividade, fluxo de controle, nó inicial, nó final e nó de decisão
 - - Quais são os componentes do diagrama de atividades
-  - Atividade, fluxo de controle, nó inicial, nó final e nó de decisão.
+  - Atividade, fluxo de controle, nó inicial, nó final e nó de decisão
+- - Você sabe quais são os elementos de um diagrama de classes
+  - Atributos, metodos, classes e relacionamentos
+- - Eu quero saber quais são os elementos de um diagrama de classes
+  - Atributos, metodos, classes e relacionamentos
+- - Eu gostaria de saber quais são os elementos de um diagrama de classes
+  - Atributos, metodos, classes e relacionamentos
+- - Voce sabe dizer quais são os elementos de um diagrama de classes
+  - Atributos, metodos, classes e relacionamentos
 - - Quais são os elementos de um diagrama de classes
-  - Atributos, metodos, classes e relacionamentos.
+  - Atributos, metodos, classes e relacionamentos
+- - Você sabe o que são objetos em diagramas de classes
+  - Um objeto e algo do mundo real, concreto ou abstrato que exibe algum comportamento bem definido
+- - Eu quero saber o que são objetos em diagramas de classes
+  - Um objeto e algo do mundo real, concreto ou abstrato que exibe algum comportamento bem definido
+- - Eu gostaria de saber o que são objetos em diagramas de classes
+  - Um objeto e algo do mundo real, concreto ou abstrato que exibe algum comportamento bem definido
+- - Voce sabe dizer o que são objetos em diagramas de classes
+  - Um objeto e algo do mundo real, concreto ou abstrato que exibe algum comportamento bem definido
 - - O que são objetos em diagramas de classes
-  - Um objeto e algo do mundo real, concreto ou abstrato que exibe algum comportamento bem definido.
-- - O que e atributo em diagramas de classes
-  - Os atributos representam as propriedades do objeto da classe.
-- - O que e metodos em diagramas de classes
-  - Os metodos representam o conjunto de operações do objeto da classe.
+  - Um objeto e algo do mundo real, concreto ou abstrato que exibe algum comportamento bem definido
+- - Você sabe o que são atributo em diagramas de classes
+  - Os atributos representam as propriedades do objeto da classe
+- - Eu quero saber o que são atributo em diagramas de classes
+  - Os atributos representam as propriedades do objeto da classe
+- - Eu gostaria de saber o que são atributo em diagramas de classes
+  - Os atributos representam as propriedades do objeto da classe
+- - Voce sabe dizer o que são atributo em diagramas de classes
+  - Os atributos representam as propriedades do objeto da classe
+- - O que são atributo em diagramas de classes
+  - Os atributos representam as propriedades do objeto da classe
+- - Você sabe o que são metodos em diagramas de classes
+  - Os metodos representam o conjunto de operações do objeto da classe
+- - Eu quero saber o que são metodos em diagramas de classes
+  - Os metodos representam o conjunto de operações do objeto da classe
+- - Eu gostaria de saber o que são metodos em diagramas de classes
+  - Os metodos representam o conjunto de operações do objeto da classe
+- - Voce sabe dizer são metodos em diagramas de classes
+  - Os metodos representam o conjunto de operações do objeto da classe
+- - O que são metodos em diagramas de classes
+  - Os metodos representam o conjunto de operações do objeto da classe
+- - Você sabe o que são classes em diagramas de classes
+  - São especificações para objetos. A definição da classe consiste na definiçaõ dos atributos e métodos dos objetos desta classe
+- - Eu quero saber o que são classes em diagramas de classes
+  - São especificações para objetos. A definição da classe consiste na definiçaõ dos atributos e métodos dos objetos desta classe
+- - Eu gostaria de saber o que são classes em diagramas de classes
+  - São especificações para objetos. A definição da classe consiste na definiçaõ dos atributos e métodos dos objetos desta classe
+- - Voce sabe o que são classes em diagramas de classes
+  - São especificações para objetos. A definição da classe consiste na definiçaõ dos atributos e métodos dos objetos desta classe
 - - O que são classes em diagramas de classes
-  - São especificações para objetos. A definição da classe consiste na definiçaõ dos atributos e métodos dos objetos desta classe.
+  - São especificações para objetos. A definição da classe consiste na definiçaõ dos atributos e métodos dos objetos desta classe
+- - Você sabe o que são relacionamentos em diagramas de classes
+  - São as formas que as entidades podem se conectar a outras, lógica ou fisicamente
+- - Eu quero saber o que são relacionamentos em diagramas de classes
+  - São as formas que as entidades podem se conectar a outras, lógica ou fisicamente
+- - Eu gostaria de saber o que são relacionamentos em diagramas de classes
+  - São as formas que as entidades podem se conectar a outras, lógica ou fisicamente
+- - Voce sabe dizer o que são relacionamentos em diagramas de classes
+  - São as formas que as entidades podem se conectar a outras, lógica ou fisicamente
 - - O que são relacionamentos em diagramas de classes
-  - São as formas que as entidades podem se conectar a outras, lógica ou fisicamente.
+  - São as formas que as entidades podem se conectar a outras, lógica ou fisicamente
+- - Você sabe quais os tipos de relacionamentos que temos na orientação a objetos
+  - Associações de agregação ou composição, generalizações e dependências
+- - Eu quero saber quais os tipos de relacionamentos que temos na orientação a objetos
+  - Associações de agregação ou composição, generalizações e dependências
+- - Eu gostaria de saber quais os tipos de relacionamentos que temos na orientação a objetos
+  - Associações de agregação ou composição, generalizações e dependências
+- - Voce sabe dizer quais os tipos de relacionamentos que temos na orientação a objetos
+  - Associações de agregação ou composição, generalizações e dependências
 - - Quais os tipos de relacionamentos que temos na orientação a objetos
-  - Associações de agregação ou composição, generalizações e dependências.
+  - Associações de agregação ou composição, generalizações e dependências
